@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivsambhupadhi
 - 👀 I’m interested in Salesforce developer
-- 🌱 I’m currently learning Salesforce Pd1
+- 🌱 I’m currently learning Salesforce Platform
 - 💞️ I’m looking to collaborate on Salesforce
 - 📫 How to reach me 9348536070
 - 😄 Pronouns: ...
