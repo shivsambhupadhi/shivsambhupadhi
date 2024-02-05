@@ -18,7 +18,4 @@ Version Control: Git, GitHub
 Connect with me on LinkedIn-https://www.linkedin.com/in/shiv-sambhu-padhi-830727262/
 Follow me on Twitter -https://x.com/ShivamPadhi7?s=09
 
-📂 Projects Showcase:
-Explore my GitHub repositories to discover a collection of projects demonstrating my skills in Salesforce development. From Apex code snippets to fully-fledged Lightning applications, each repository tells a unique story of problem-solving and innovation.
-
 I'm always open to collaboration and welcome feedback on my work. Let's connect and build something extraordinary together!
